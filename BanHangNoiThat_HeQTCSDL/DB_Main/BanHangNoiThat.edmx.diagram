@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b183ca4cbdaa41f4bd88dcb5e440d869" Name="Diagram1">
+        <EntityTypeShape EntityType="BanHangNoiThatModel.DonHangBan" Width="1.5" PointX="3" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BanHangNoiThatModel.DonHangNhap" Width="1.5" PointX="3" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BanHangNoiThatModel.GioHang" Width="1.5" PointX="5.75" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BanHangNoiThatModel.HangHoaBan" Width="1.5" PointX="5.25" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BanHangNoiThatModel.HangHoaNhap" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BanHangNoiThatModel.KhachHang" Width="1.5" PointX="0.75" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BanHangNoiThatModel.LoaiSanPham" Width="1.5" PointX="0.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="BanHangNoiThatModel.SanPham" Width="1.5" PointX="3" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BanHangNoiThatModel.sysdiagram" Width="1.5" PointX="7.75" PointY="2.125" IsExpanded="true" />
+        <AssociationConnector Association="BanHangNoiThatModel.f3" ManuallyRouted="false" />
+        <AssociationConnector Association="BanHangNoiThatModel.FK__HangHoaBa__MaDHB__47DBAE45" ManuallyRouted="false" />
+        <AssociationConnector Association="BanHangNoiThatModel.FK__HangHoaNh__MaDHN__3E52440B" ManuallyRouted="false" />
+        <AssociationConnector Association="BanHangNoiThatModel.f4" ManuallyRouted="false" />
+        <AssociationConnector Association="BanHangNoiThatModel.f1" ManuallyRouted="false" />
+        <AssociationConnector Association="BanHangNoiThatModel.f2" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,116 @@
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Admin_Login.resources
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.ForgotPass.resources
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Properties.Resources.resources
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.SignIn.resources
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.User_Login.resources
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.csproj.GenerateResource.cache
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.csproj.CoreCompileInputs.cache
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\bin\Debug\BanHangNoiThat_HeQTCSDL.exe.config
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\bin\Debug\BanHangNoiThat_HeQTCSDL.exe
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\bin\Debug\BanHangNoiThat_HeQTCSDL.pdb
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.csproj.CopyComplete
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.exe
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.pdb
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.GiaoDienAdmin.resources
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.GiaoDienUser.resources
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.Amincontrol.AminQLKH.resources
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.Amincontrol.AminQLSP.resources
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.Detailproduct.resources
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.UsersControl.AddCart.resources
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.UsersControl.UseInformation.resources
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.UsersControl.UserContact.resources
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.UsersControl.UserHome.resources
+D:\visual studio\C#\BanHangNoiThat_HeQTCSDL\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.UsersControl.UserProduct.resources
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.Amincontrol.AminQLKH.resources
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.Amincontrol.AminQLSP.resources
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Admin_Login.resources
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.Detailproduct.resources
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.ForgotPass.resources
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.GiaoDienAdmin.resources
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.GiaoDienUser.resources
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Properties.Resources.resources
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.SignIn.resources
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.UsersControl.AddCart.resources
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.UsersControl.UseInformation.resources
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.UsersControl.UserContact.resources
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.UsersControl.UserHome.resources
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.UsersControl.UserProduct.resources
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.User_Login.resources
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.csproj.GenerateResource.cache
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.csproj.CoreCompileInputs.cache
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.exe
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.pdb
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\BanHangNoiThat_HeQTCSDL.exe.config
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\BanHangNoiThat_HeQTCSDL.exe
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\BanHangNoiThat_HeQTCSDL.pdb
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.csproj.CopyComplete
+C:\Users\BUI\Desktop\DBMS FIX\HeQT_BanHangNoiThat (1)\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.csprojAssemblyReference.cache
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\BanHangNoiThat_HeQTCSDL.exe.config
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\BanHangNoiThat_HeQTCSDL.exe
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\BanHangNoiThat_HeQTCSDL.pdb
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.Amincontrol.AminQLKH.resources
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.Amincontrol.AminQLSP.resources
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Admin_Login.resources
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.Detailproduct.resources
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.ForgotPass.resources
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.GiaoDienAdmin.resources
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.GiaoDienUser.resources
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Properties.Resources.resources
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.SignIn.resources
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.UsersControl.AddCart.resources
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.UsersControl.UseInformation.resources
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.UsersControl.UserContact.resources
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.UsersControl.UserHome.resources
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Forms.UsersControl.UserProduct.resources
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.User_Login.resources
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.csproj.GenerateResource.cache
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.csproj.CoreCompileInputs.cache
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.csproj.CopyComplete
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.exe
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.pdb
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.Admin_control.AminNhapSP.resources
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\EntityFramework.dll
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\EntityFramework.SqlServer.dll
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\EntityFramework.xml
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\bin\Debug\EntityFramework.SqlServer.xml
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.csprojAssemblyReference.cache
+D:\visual studio\C#\HeQT_BanHangNoiThat\BanHangNoiThat_HeQTCSDL\obj\Debug\BanHangNoiThat_HeQTCSDL.DonHangofKH.resources
